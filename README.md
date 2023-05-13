@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatteoNulli
-- 👀 I’m interested in AI and its applications
+- 👀 Interested in AI and its applications
 - 🌱 I’m currently learning about Mathematics and Computer Science applied to AI
 - 🏀 Passionate about basketball
 - 📫 How to reach me: www.linkedin.com/in/matteonulli or  matteo.nulli@outlook.com
