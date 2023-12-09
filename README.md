@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatteoNulli
 - 👀 Interested in AI and its applications
-- 🌱 I’m currently learning about Mathematics and Computer Science applied to AI
+- 🌱 I’m currently learning about AI, DL and its many applications
 - 🏀 Passionate about basketball
 - 📫 How to reach me: www.linkedin.com/in/matteonulli or  matteo.nulli@outlook.com
 
