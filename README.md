@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatteoNulli
-- 👀 Interested in AI and its applications
+- 👀 Interested in Multimodal learning systems and their applications
 - 📚 I’m currently learning about Deep Learning, Natural Language Processing and Computer Vision
 - 🏀 Passionate about basketball
 - 🌐 Personal Website: https://matteonulli.github.io
