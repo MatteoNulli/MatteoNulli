@@ -2,10 +2,10 @@
 - 👀 Interested in AI and its applications
 - 📚 I’m currently learning about Deep Learning, Natural Language Processing and Computer Vision
 - 🏀 Passionate about basketball
-- 📫 How to reach me: www.linkedin.com/in/matteonulli or  matteo.nulli@outlook.com
-<!---
 - 🌐 Personal Website: https://matteonulli.github.io
---->
+- 📫 How to reach me: www.linkedin.com/in/matteonulli or  matteo.nulli@outlook.com
+
+
 
 <!---
 MatteoNulli/MatteoNulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
